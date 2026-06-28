@@ -38,4 +38,17 @@ pip install akf && akf quickstart
 
 ---
 
+#### 🎁 [Dev Wrapped](https://github.com/HMAKT99/Dev_Wrapped)
+**Your year in code, wrapped.** Type any GitHub username or `owner/repo` → a shareable "Spotify Wrapped" card of commits, streaks, top languages & your developer persona.
+
+- 🎨 6 themes · light/dark · animated story + share images
+- 🔒 Public data only · ⚡ embeddable in any README (auto-refreshing)
+- 🆓 Free, open source, MIT license
+
+⭐ [Star it](https://github.com/HMAKT99/Dev_Wrapped) · 🌐 [Try it live](https://dev-wrapped-eight.vercel.app) · 📦 [Add to your README](https://github.com/HMAKT99/Dev_Wrapped#-add-it-to-your-readme)
+
+---
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HMAKT99&show_icons=true&theme=dark&hide_border=true)
+
+[![Dev Wrapped](https://dev-wrapped-eight.vercel.app/api/card/HMAKT99?theme=midnight)](https://dev-wrapped-eight.vercel.app/u/HMAKT99)
